@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="72b8d97d93220210b7d37c018bba10a4" label="mileage tracking" max_length="40" name="x_393743_100_mile_mileage_tracking" type="collection">
+        <element label="cumulative mileage" max_length="15" name="cumulative_mileage" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Mileage" max_length="15" name="mileage" type="decimal"/>
+        <element display="true" label="Ride Name" max_length="50" name="ride_name" type="string"/>
+    </element>
+</database>
