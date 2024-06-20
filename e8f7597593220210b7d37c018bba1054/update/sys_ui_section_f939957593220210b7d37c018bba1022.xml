@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f939957593220210b7d37c018bba1022" sys_domain="global" table="x_393743_100_mile_mileage_tracking" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cumulative_mileage</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-03 04:17:29</sys_created_on>
+            <sys_id>1e5c15b193620210b7d37c018bba104f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_393743_100_mile_mileage_tracking" sys_domain="global" view="Default view">f939957593220210b7d37c018bba1022</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-03 04:17:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-03 04:17:29</sys_created_on>
+            <sys_id>925c15b193620210b7d37c018bba1050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_393743_100_mile_mileage_tracking" sys_domain="global" view="Default view">f939957593220210b7d37c018bba1022</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-03 04:17:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-03 04:17:29</sys_created_on>
+            <sys_id>165c15b193620210b7d37c018bba1050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_393743_100_mile_mileage_tracking" sys_domain="global" view="Default view">f939957593220210b7d37c018bba1022</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-03 04:17:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-03 04:17:29</sys_created_on>
+            <sys_id>965c15b193620210b7d37c018bba1050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_393743_100_mile_mileage_tracking" sys_domain="global" view="Default view">f939957593220210b7d37c018bba1022</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-03 04:17:29</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mileage</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-03 04:17:29</sys_created_on>
+            <sys_id>1a5c15b193620210b7d37c018bba1050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_393743_100_mile_mileage_tracking" sys_domain="global" view="Default view">f939957593220210b7d37c018bba1022</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-03 04:17:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ride_name</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-03 12:47:19</sys_created_on>
+            <sys_id>d601db39936a0210b7d37c018bba1064</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_393743_100_mile_mileage_tracking" sys_domain="global" view="Default view">f939957593220210b7d37c018bba1022</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-03 12:47:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_393743_100_mile_mileage_tracking</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-03 04:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f939957593220210b7d37c018bba1022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_393743_100_mile_mileage_tracking</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="100 Mile Challenge" source="x_393743_100_mile">e8f7597593220210b7d37c018bba1054</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="100 Mile Challenge">e8f7597593220210b7d37c018bba1054</sys_scope>
+            <sys_update_name>sys_ui_section_f939957593220210b7d37c018bba1022</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-03 04:03:49</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

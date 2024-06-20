@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="mileage tracking" language="en" table="x_393743_100_mile_mileage_tracking">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>mileage tracking</label>
+            <language>en</language>
+            <name>x_393743_100_mile_mileage_tracking</name>
+            <plural>mileage trackings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-03 04:01:41</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>mileage tracking</sys_name>
+            <sys_package display_value="100 Mile Challenge" source="x_393743_100_mile">e8f7597593220210b7d37c018bba1054</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="100 Mile Challenge">e8f7597593220210b7d37c018bba1054</sys_scope>
+            <sys_update_name>sys_documentation_x_393743_100_mile_mileage_tracking__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-03 04:01:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
